@@ -26,7 +26,7 @@ function App() {
       {/* <ProductForm/> */}
       {/* <UserForm/> */}
 
-
+    console.log("object");
       <BrowserRouter>
         {
           localStorage.getItem('data') != null ?
