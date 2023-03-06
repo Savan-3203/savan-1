@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ button{
+    padding: 5px 25px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    outline: 2px solid white;
+    outline-offset: -7px;
+    
+    border: 2px solid white;
+}
+table{
+    position: absolute;
+    width: 70% !important;
+    right: 47px;
+    /* background-color: red; */
+    /* background-image: linear-gradient(rgba(127, 127, 127, 0.5) rgba(255, 255, 255, 0.5) rgba(127, 127, 127, 0.5)); */
+    /* background-image: url(../images/table.jpg) */
+    background-color: rgba(255, 255, 255, 0.797);
+    
+}

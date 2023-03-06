@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.reducer{
+    width: 70%;
+    border: 3px solid black;
+    padding: 50px;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+
+.reducer h2{
+    text-align: center;
+}
+
+.reducer label{
+    width: 100%;
+}
+
+.reducer input{
+    border: 0;
+    outline: 0;
+    border-bottom: 1px solid black;
+    /* width: 100%; */
+}
+
